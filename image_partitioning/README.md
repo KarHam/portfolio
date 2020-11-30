@@ -16,7 +16,7 @@ Ex: In a 200 x 200 image with R G B A system, the following relation:
 Means that for the right third of the image, we need to see a mostly red bar. This relation would score highly on an Italian flag.
 To evaluate expressions, we parse the expression and see whether the described areas in the image satisfy the described color requirements. (I wish I had known about antlr before I wrote my own parser) 
 The score is a joint weighted metric of 
-1) accuracy, or how much of the described area satisfies the color requirements) 
+1) accuracy, or how much of the described area satisfies the color requirements
 2) How much area is described (expressions that describe larger statements are favored) 
 3) How specific the statement is (the less colors it accepts, the better)
 The best expressions are taken, and true to the evolution spirit, are mutated, either gaining or losing building blocks. This goes on for a few iterations.
