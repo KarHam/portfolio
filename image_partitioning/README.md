@@ -8,11 +8,11 @@ The algorithm I devised was fairly complicated, but was inspired by my fervent i
 
 <h3>Algorithm:</h3>
 
-A relation consists of 2 halves, the left half describes an area in the image, and the right half describes a color condition to be applied for this area.
+A relation consists of 2 halves, the right half describes an area in the image, and the left half describes a color condition to be applied for this area.
 We have building blocks, which are expressions like X<5, or R>56 where X is the x coordinate and R is the red color.
 These blocks are combined using parenthesis and union/intersection operations. 
 Ex: In a 200 x 200 image with R G B A system, the following relation:
-(X>133) K (G<20) and (B<20) and (R>133)
+ (G<20) and (B<20) and (R>133)K(X>133) 
 Means that for the right third of the image, we need to see a mostly red bar. This relation would score highly on an Italian flag.
 To evaluate expressions, we parse the expression and see whether the described areas in the image satisfy the described color requirements. (I wish I had known about antlr before I wrote my own parser) 
 The score is a joint weighted metric of 
