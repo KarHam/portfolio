@@ -8,7 +8,7 @@ Start with Image_Partitioning, it is older, but more meaningful for me (will tel
 
 Then, if you wish, more to lira_prediction, it is a more recent group project, and many codes are included.
 
-My other projects (RPS contests, sila.ai work..) are either contests in process, or held under an NDA, so I must refrain from sharing here.
+My other projects (RPS contests, sila.ai work..) are either contests in process, or held under an NDA, so I must refrain from sharing here. This is still a work in progress, and will be continuously updated.
 
 I prefer this to a linked-in, for privacy purposes. I hope you enjoy your stay!
 
