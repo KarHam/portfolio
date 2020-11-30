@@ -19,6 +19,7 @@ The score is a joint weighted metric of
 1) accuracy, or how much of the described area satisfies the color requirements
 2) How much area is described (expressions that describe larger statements are favored) 
 3) How specific the statement is (the less colors it accepts, the better)
+
 The best expressions are taken, and true to the evolution spirit, are mutated, either gaining or losing building blocks. This goes on for a few iterations.
 <h3>
 Results:
