@@ -14,4 +14,4 @@ Chart shows the lines for the actual rate as well as the predicted rate by our m
 
 Table shows some comparison metrics for different predictions, including the dummy baseline and the chosen linear regression.
 
-Phase2 and phase3 is the notebook codes used to do EDA and run different models respectively. They are fairly involved.
+Phase2final and phase3final are the notebook codes used to do EDA and run different models respectively. They are fairly involved.
