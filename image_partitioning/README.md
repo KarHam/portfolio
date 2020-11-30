@@ -3,7 +3,7 @@ This is my first serious attempt at machine learning; and I invented it in my se
 <h3>Task:</h3>
 
 I wanted to partition images based on major sections, and realized that doing so would require analyzing relationships between colors and coordinates.
-The algorithm I devised was fairly complicated, but was inspired by my fervent interest in biological evolution.
+The algorithm I devised was inspired by my fervent interest in biological evolution.
 
 
 <h3>Algorithm:</h3>
