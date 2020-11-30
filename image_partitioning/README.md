@@ -24,7 +24,7 @@ The best expressions are taken, and true to the evolution spirit, are mutated, e
 Results:
 </h3>
 
-The best results are show in the file. Highlighted regions correspond to areas that the relation for this image guessed correctly.
+The best results are shown in the file. Highlighted regions correspond to areas that the relation for this image guessed correctly.
 The algorithm did exceptionally well with images with straight lines, however due to the building blocks not supporting more complicated polynomial Y in terms of X,  the algorithm was doomed not to be able to recognize curves.
 Another weakness was complexity and readability; I'm sure 8 nested loops were not a great idea in hindsight, and may be the reason why I remember letting the algorithm run for days.
 
