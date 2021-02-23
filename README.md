@@ -2,7 +2,7 @@
 Brief teaser for recruiters
 
 Hi there! I see you've found your way to my online portfolio. This likely means I've submit my CV to your company. Thanks for making it here! 
-The folders in this github correspond to listed projects on the cv.
+The folders in this github correspond to some projects that I may or may not have put on the cv.
 
 Start with Image_Partitioning, it is older, but is dear to me, and tells you more about me than the second project. Note I am not making the code public now, but I'll show it if requested.
 
